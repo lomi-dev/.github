@@ -12,8 +12,8 @@
 </p>
 
 We make open-source tools for people who build software with AI. Friendly
-form makes it easy to start; precision helps finish the work. Our desktop apps
-run on your machine, with no account and no telemetry.
+form makes it easy to start; precision helps finish the work. lomi runs on your
+machine, with no account and no telemetry.
 
 ## <img src="assets/lomi-icon.png" width="32" height="32" align="top" alt="" /> lomi
 
@@ -96,21 +96,6 @@ Plugins run as trusted local code. Importing a package never runs it: you review
 it and choose **Trust and enable** first. Start `lomi --safe-mode` to skip
 third-party plugins and themes.
 
-## <img src="assets/simplevoice-icon.png" width="32" height="32" align="top" alt="" /> Simplevoice
-
-**Local speech-to-text and voice typing for macOS, Linux and Windows.**
-
-<p>
-  <a href="https://github.com/lomi-dev/simplevoice/releases/latest"><img src="https://img.shields.io/github/v/release/lomi-dev/simplevoice?label=release&color=C8FF3D&labelColor=0B0D0C" alt="Latest Simplevoice release" /></a>
-  <a href="https://github.com/lomi-dev/simplevoice/blob/main/LICENSE"><img src="https://img.shields.io/github/license/lomi-dev/simplevoice?color=C8FF3D&labelColor=0B0D0C" alt="Apache-2.0 license" /></a>
-</p>
-
-Speak anywhere, and the text lands in the active app. Transcribe offline with
-Whisper, Parakeet or Zipformer models, or connect your own cloud provider key.
-Recordings and history are stored on your device.
-[Get Simplevoice](https://github.com/lomi-dev/simplevoice) or visit
-[simplevoice.app](https://simplevoice.app).
-
 ## How we build
 
 <table>
@@ -131,7 +116,7 @@ Recordings and history are stored on your device.
     </td>
     <td width="50%" valign="top">
       <b>Open source</b>
-      <p>Our apps and the plugin toolchain are Apache-2.0. Issues and pull requests are welcome.</p>
+      <p>lomi and the plugin toolchain are Apache-2.0. Issues and pull requests are welcome.</p>
     </td>
   </tr>
 </table>
